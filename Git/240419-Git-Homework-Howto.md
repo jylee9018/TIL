@@ -1,5 +1,6 @@
 # Homework
-## TIL
+
+## 1. TIL
 
 ### How to
 
@@ -10,7 +11,8 @@
 5. vi 로 4의 파일을 편집합니다.
 6. git status로 상황을 확인 후 add, commit, push 명령을 수행해 원격저장소에 소스를 전달합니다. 
 
-## Generate profile
+
+## 2. Generate profile
 
 ### How to
 
